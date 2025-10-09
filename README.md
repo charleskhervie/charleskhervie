@@ -1,18 +1,20 @@
-<h1 align="center">Hey there 👋, I'm Charles, a Computer Science Student</h1>
+<h2 align="center">Hi there 👋, I'm Charles</h2>
+<h4 align="center">I'm a Computer Science student passionate about Linux, cybersecurity, and networking.</h4>
 
 ---
 
-### 🚀 About Me
+### 💫 About Me
+<p align="center">
   🌱 Learning <b>Linux</b>, <b>cybersecurity</b>, and <b>networking</b> <br>
   💻 Exploring <b>Kali Linux</b> and ethical hacking tools <br>
   📚 Always curious about <b>security</b>, <b>scripting</b>, and <b>automation</b> <br>
   ⚡ Fun facts: I love <b>music</b>, <b>photography</b>, and a bit of <b>cardistry</b> 🎴
+</p>
 
 ---
 
 ### 🧰 Tech Stack
 <p align="center">
-  <!-- You can get these icons from https://github.com/devicons/devicon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
