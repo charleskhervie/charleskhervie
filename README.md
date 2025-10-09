@@ -1,19 +1,12 @@
 <h1 align="center">Hey there 👋, I'm Charles, a Computer Science Student</h1>
 
-<p align="center">
-  🌱 Learning Linux, cybersecurity, and networking</b>  
-  💻 Exploring <b>Kali Linux</b> and ethical hacking tools  
-  📚 Always curious about <b>security, scripting, and automation
-  ⚡ Fun facts: I love music, photography, and some cardistry</b>  
-</p>
-
 ---
 
 ### 🚀 About Me
-- 🧩 Currently learning Linux & security fundamentals  
-- 🎯 Goal: Become confident using the command line  
-- 🛠️ Tools I use: Kali Linux, VirtualBox, Git, VS Code  
-- 🌐 I document my progress in [my Bandit Write-ups](https://github.com/siomai/overthewire-bandit-notes)
+  🌱 Learning Linux, cybersecurity, and networking</b>  
+  💻 Exploring <b>Kali Linux</b> and ethical hacking tools  
+  📚 Always curious about <b>security, scripting, and automation
+  ⚡ Fun facts: I love music, photography, and some cardistry
 
 ---
 
