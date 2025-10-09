@@ -17,7 +17,8 @@
 <p align="center">
   <!-- Animated icons -->
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" height="50" title="Git & Terminal"/>
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="50" height="50" title="Linux"/>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" height="50" title="Linux"/>
+
 
   <!-- Static icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" title="Bash"/>
