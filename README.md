@@ -24,16 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siomai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siomai&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
----
 
 ### 💬 Connect with Me
 <p align="center">
