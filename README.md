@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, I'm Charles</h2>
-<h4 align="center">I'm a Computer Science student passionate about Linux, cybersecurity, and networking.</h4>
+<h4 align="center">I'm a Computer Science student</h4>
 
 ---
 
