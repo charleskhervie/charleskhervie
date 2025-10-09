@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Charles, a Computer Science Student</h1>
 
-<!--
-**charleskhervie/charleskhervie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌱 Learning Linux, cybersecurity, and networking</b>  
+  💻 Exploring <b>Kali Linux</b> and ethical hacking tools  
+  📚 Always curious about <b>security, scripting, and automation
+  ⚡ Fun facts: I love music, photography, and some cardistry</b>  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🧩 Currently learning Linux & security fundamentals  
+- 🎯 Goal: Become confident using the command line  
+- 🛠️ Tools I use: Kali Linux, VirtualBox, Git, VS Code  
+- 🌐 I document my progress in [my Bandit Write-ups](https://github.com/siomai/overthewire-bandit-notes)
+
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <!-- You can get these icons from https://github.com/devicons/devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siomai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siomai&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 💬 Connect with Me
+<p align="center">
+  <a href="https://github.com/siomai"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ **“Every command learned is another tool in your hacker toolbox.”**
