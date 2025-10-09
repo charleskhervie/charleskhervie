@@ -1,10 +1,10 @@
-<h2 align="center">Hi there 👋, I'm Charles</h2>
-<h4 align="center">I'm a Computer Science student</h4>
+<h2>Hi there 👋, I'm Charles</h2>
+<h4>I'm a Computer Science student</h4>
 
 ---
 
 ### 💫 About Me
-<p align="center">
+<p>
   🌱 Learning <b>Linux</b>, <b>cybersecurity</b>, and <b>networking</b> <br>
   💻 Exploring <b>Kali Linux</b> and ethical hacking tools <br>
   📚 Always curious about <b>security</b>, <b>scripting</b>, and <b>automation</b> <br>
