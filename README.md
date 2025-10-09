@@ -3,10 +3,10 @@
 ---
 
 ### 🚀 About Me
-  🌱 Learning Linux, cybersecurity, and networking</b>  
-  💻 Exploring <b>Kali Linux</b> and ethical hacking tools  
-  📚 Always curious about <b>security, scripting, and automation
-  ⚡ Fun facts: I love music, photography, and some cardistry
+  🌱 Learning <b>Linux</b>, <b>cybersecurity</b>, and <b>networking</b> <br>
+  💻 Exploring <b>Kali Linux</b> and ethical hacking tools <br>
+  📚 Always curious about <b>security</b>, <b>scripting</b>, and <b>automation</b> <br>
+  ⚡ Fun facts: I love <b>music</b>, <b>photography</b>, and a bit of <b>cardistry</b> 🎴
 
 ---
 
