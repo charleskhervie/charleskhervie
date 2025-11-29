@@ -16,7 +16,7 @@
 ### 🧰 Tech Stack
 <p align="center">
   <!-- Animated icons -->
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" height="50" title="Git & Terminal"/>
+ 
  
 
   <!-- Static icons -->
