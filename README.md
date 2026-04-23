@@ -26,5 +26,5 @@
 <br>
 ---
  
-<p align="center"><i>"The quieter you become, the more you are able to hear."</i></p>
+
  
